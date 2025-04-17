@@ -1,0 +1,1 @@
+export const JWT_SECRET = process.env.JWT_SECRET || "12334757724637645764352";

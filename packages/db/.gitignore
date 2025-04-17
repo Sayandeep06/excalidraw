@@ -1,0 +1,9 @@
+node_modules
+# Keep environment variables out of version control
+.env
+# Ignore build outputs
+dist/
+
+# Ignore Prisma generated files
+generated/
+generated/prisma/
